@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jazmine Arizala</h1>
-<h3 align="center">My preferred name is Divine!</h3>
+<h1 align="center">Hi 👋, I'm Jericho Arizala</h1>
 
 - 📫 How to reach me **jarizala.dev@gmail.com**
 
