@@ -2,13 +2,10 @@
 
 - 📫 How to reach me **jarizala.dev@gmail.com**
 
-- 📄 Know about my experiences ➡️ <a href="https://drive.google.com/file/d/1p87WgrEPS_yIbRl1b5iBc-_nevnlU0l8/view?usp=sharing">Resume</a>
-
-- ⚡ Favorite game **Animal Crossing**
+- ⚡ Favorite game **Pyschonauts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/earthlydevo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="earthlydevo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/earthlydev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="earthlydev" height="30" width="40" /></a>
 </p>
 
