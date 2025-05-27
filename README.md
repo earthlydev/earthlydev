@@ -11,8 +11,7 @@
 <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">&nbsp;
-<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff">&nbsp;
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">&nbsp;</div>
+<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff">&nbsp;</div>
 <h2 align="center">🛠 My Stats</h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=earthlydev&layout=compact&theme=dark" alt="Top Languages Card"></div>
