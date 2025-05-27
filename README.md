@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jericho Arizala</h1>
 
-- 📫 How to reach me **jarizala.dev@gmail.com**
+- 📫 How to reach me **arizalaj@proton.me**
 
 - ⚡ Favorite game **Pyschonauts**
 
