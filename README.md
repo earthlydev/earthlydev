@@ -3,7 +3,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Jericho and data is fun" src="images/personal_note.svg" />
+  <h3>My Name is Jericho and data is fun</h3>
   <br />
   <br />
 
